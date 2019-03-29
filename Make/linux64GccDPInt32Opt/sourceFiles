@@ -1,0 +1,4 @@
+SOURCE = \
+laplacianFoamstruct2.C \
+
+# sources
